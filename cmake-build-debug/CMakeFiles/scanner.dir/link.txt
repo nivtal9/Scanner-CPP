@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/scanner.dir/main.cpp.o CMakeFiles/scanner.dir/token.cpp.o CMakeFiles/scanner.dir/symtab.cpp.o CMakeFiles/scanner.dir/scanner.cpp.o -o scanner 
